@@ -1,0 +1,20 @@
+program test;
+var int : x, y;
+var float[3][3] z;
+
+function int sum(int a, int b);
+var int : c;
+{
+    var c;
+    a + b + c;
+}
+
+main()
+{
+    a[b][b] + d + 1.0
+    if (true)
+    {
+        print("hello")
+    }
+    sum();
+}
