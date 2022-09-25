@@ -1,0 +1,22 @@
+{
+  "name": "compiler-design-final-project",
+  "version": "0.0.0",
+  "description": "Jison parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A00820449/compiler-design-final-project.git"
+  },
+  "author": "a00820449",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/A00820449/compiler-design-final-project/issues"
+  },
+  "homepage": "https://github.com/A00820449/compiler-design-final-project#readme",
+  "dependencies": {
+    "jison": "^0.4.18"
+  }
+}
