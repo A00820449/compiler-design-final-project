@@ -4,7 +4,7 @@
   "description": "Jison parser",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jison test.jison test.jisonlex && node test.js test-input.txt",
     "build-parser": "jison parser.jison parser.jisonlex"
   },
   "repository": {
